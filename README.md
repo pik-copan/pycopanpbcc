@@ -1,4 +1,4 @@
-# pypbcc
+# pycopanpbcc
 Python scripts for analyzing Planetary Boundaries in a conceptual model of the Earth's Carbon Cycle including geoengineering by terrestrial carbon dioxide removal
 
 # Associated publication
