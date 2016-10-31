@@ -4,8 +4,8 @@ Python scripts for analyzing Planetary Boundaries in a conceptual model of the E
 # Associated publication
 V. Heck, J.F. Donges, W. Lucht,
 Collateral transgression of planetary boundaries due to climate engineering by terrestrial carbon dioxide removal, 
-Earth System Dynamics, NEED TO PUT IN CORRECT REFERENCE AFTER PUBLICATION.
-Discussion paper: Earth System Dynamics Discussions (2016), DOI: 10.5194/esd-2016-22 (http://dx.doi.org/10.5194/esd-2016-22)
+Earth System Dynamics 7, 783-796 (2016),
+DOI: 10.5194/esd-7-783-2016.
 
 # General information
 Python scripts run in Python 2.x and use standard Python packages numpy, scipy etc. 
