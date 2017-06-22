@@ -7,6 +7,10 @@ Collateral transgression of planetary boundaries due to climate engineering by t
 Earth System Dynamics 7, 783-796 (2016),
 DOI: 10.5194/esd-7-783-2016.
 
+Software DOI of pycopanpbcc release along with paper publication: 
+
+[![DOI](https://www.zenodo.org/badge/72007144.svg)](https://www.zenodo.org/badge/latestdoi/72007144)
+
 # General information
 Python scripts run in Python 2.x and use standard Python packages numpy, scipy etc. 
 Some scripts are designed to run on a parallel cluster system.
